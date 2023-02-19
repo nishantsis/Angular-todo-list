@@ -1,0 +1,27 @@
+html{
+    padding: 8%;
+}
+.container{
+    background-color: antiquewhite;
+    height: 17vh;
+    width: 71vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#input{
+    width: 70%;
+    height: 40%;
+    border-radius: 10px;
+}
+#input:hover{
+    border: 2px solid blueviolet;
+}
+#addbtn{
+    margin-left: 3%;
+    width: 20%;
+}
+::placeholder{
+    text-align: center;
+    color: black;
+}

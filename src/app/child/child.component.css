@@ -1,0 +1,16 @@
+html{
+    padding: 8%;
+}
+.child{
+    height: 100%;
+    width: 71vw;
+    background-color: brown;
+    color: white;
+    position: relative;
+    left: 90px;
+}
+#editbtn{
+    margin-left: 48rem;
+    margin-right: 3%;
+}
+
